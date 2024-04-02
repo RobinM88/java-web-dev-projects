@@ -36,7 +36,7 @@ public class Area {
         System.out.println("The area of the circle is: " + area);
     }
 
-    // Method to check if a string is numeric
+
     private static boolean isNumeric(String str) {
         if (str == null || str.isEmpty()) {
             return false;
